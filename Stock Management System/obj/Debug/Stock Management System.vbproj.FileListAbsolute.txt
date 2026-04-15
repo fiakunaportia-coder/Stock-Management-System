@@ -1,0 +1,12 @@
+C:\Users\solomon atima\source\repos\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\solomon atima\source\repos\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\solomon atima\source\repos\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\solomon atima\source\repos\Stock Management System\bin\Debug\Stock Management System.xml
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock Management System.vbproj.AssemblyReference.cache
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock_Management_System.Form1.resources
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock_Management_System.Resources.resources
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock Management System.vbproj.GenerateResource.cache
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock Management System.vbproj.CoreCompileInputs.cache
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock Management System.xml
+C:\Users\solomon atima\source\repos\Stock Management System\obj\Debug\Stock Management System.pdb
